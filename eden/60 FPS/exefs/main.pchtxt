@@ -1,0 +1,9 @@
+@nsobid-BB02917589CFB448460E1DDAC4C52828
+
+# Little Nightmares III v1.2.1 - force NVN present interval 1 (60 FPS) - experimental
+@flag print_values
+@flag offset_shift 0x100
+
+@enabled
+0032D148 36008052
+@stop
